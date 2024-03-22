@@ -5,7 +5,7 @@ version 0.1 (<u>20240320</u>)
 Effloc is an efficient locating algorithm for high-frequency biological patterns in genomic sequences. 
 
 # How to use it?
-Effloc consists of three components, index building, pattern generating, and pattern locating. You should first build the FM-index with the reference genome, and then perform the locating process.
+Effloc consists of three components, index building, pattern generating, and pattern locating. You should first build the FM-index with the reference genome, and then perform the locating process.   
 ![0e8370ed8ffe521689206ec159e99e12](https://github.com/Lilu-guo/Effloc/assets/23703069/8d599869-5c0f-4894-82ec-98d10b5303de)
 
 
