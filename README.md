@@ -1,6 +1,7 @@
 # Effloc: An efficient locating algorithm for mass-occurrence biological patterns with FM-Index
 ~version 0.1 (<u>20240320</u>)~   
 version 0.2 (<u>20241223</u>)   
+ToDO: optimize code structure, add friendly comments 
 
 # What is it?
 Effloc is an efficient locating algorithm for mass-occurrence biological patterns with FM-Index. 
